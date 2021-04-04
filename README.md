@@ -18,11 +18,10 @@
   </a>
 </p>
 
-I'm a **software engineer student** 👨‍💻, a **design lover** 🎨 and a very **pasionated person**, interested in opensource projects and web development
-🖥️.
+I'm a Software Engineer Student, passionate for the **UI/UX**, **Web Development** and **Human-Computer Interaction**. I enjoy learning, improving and sharing my skills and knowledge!
 
 - 🚀 Working on Vue, Javascript and Rust.
-- 🌱 Currently learning about Nuxt, DevOps and Project Management.
-- 🍵 Love reading about philosophy and drink tea.
+- 🌱 Currently learning about Nuxt, DevOps and NodeJS.
+- 🍵 I Love reading philosophy and drink tea.
 - 🌟 General Coordinator of an incredible organization called [Workshop](https://workshoptechnology.github.io/WorkshopLanding/).
 - ⛩️ [Lintori](https://lintori.vercel.app) Co-founder.
