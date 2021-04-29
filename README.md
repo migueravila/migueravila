@@ -23,5 +23,5 @@ I'm a Software Engineer Student, passionate for the **UI/UX**, **Web Development
 - 🚀 Working on Vue, Javascript and Rust.
 - 🌱 Currently learning about Nuxt, DevOps and NodeJS.
 - 🍵 I Love reading philosophy and drink tea.
-- 🌟 General Coordinator of an incredible organization called [Workshop](https://workshoptechnology.github.io/WorkshopLanding/).
+- 🌟 President of an incredible organization called [Workshop](https://workshoptechnology.github.io/WorkshopLanding/).
 - ⛩️ [Lintori](https://lintori.vercel.app) Co-founder.
