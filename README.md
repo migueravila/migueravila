@@ -2,19 +2,19 @@
 
 <p style="margin: -20px 0 30px">
   <a href="https://www.linkedin.com/in/migueravila/" target="_blank" style='margin-right:0px'>
-    <img align="center" src="https://github.com/MiguelRAvila/MiguelRAvila/blob/master/img/profile/Linkedind.png" alt="linkedin" height="30px" width="30px" />
+    <img align="center" src="https://github.com/migueravila/migueravila/blob/main/assets/Linkedin.png" alt="linkedin" height="30px" width="30px" />
   </a>
   &nbsp;
    <a href="https://shrine.hashnode.dev/" target="_blank" style='margin-right:0px'>
-    <img align="center" src="https://github.com/MiguelRAvila/MiguelRAvila/blob/master/img/profile/Blogd.png" alt="blog" height="30px"  />
+    <img align="center" src="https://github.com/migueravila/migueravila/blob/main/assets/Blog.png" alt="blog" height="30px"  />
   </a>
   &nbsp;
       <a href="http://miguelravila.me/" target="_blank" style='margin-right:0px'>
-    <img align="center" src="https://github.com/MiguelRAvila/MiguelRAvila/blob/master/img/profile/Portfoliod.png" alt="linkedin" height="30px"  />
+    <img align="center" src="https://github.com/migueravila/migueravila/blob/main/assets/Portfolio.png" alt="linkedin" height="30px"  />
   </a>
   &nbsp;
   <a href="https://twitter.com/migueravila" target="_blank">
-    <img align="center" src="https://github.com/MiguelRAvila/MiguelRAvila/blob/master/img/profile/Twitterd.png" alt="email" height="30px"/>
+    <img align="center" src="https://github.com/migueravila/migueravila/blob/main/assets/Twitter.png" alt="email" height="30px"/>
   </a>
 </p>
 
