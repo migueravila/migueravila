@@ -5,7 +5,7 @@
     <img align="center" src="https://github.com/migueravila/migueravila/blob/main/assets/Linkedin.png" alt="linkedin" height="30px" width="30px" />
   </a>
   &nbsp;
-   <a href="https://shrine.hashnode.dev/" target="_blank" style='margin-right:0px'>
+   <a href="https://mavila.hashnode.dev/" target="_blank" style='margin-right:0px'>
     <img align="center" src="https://github.com/migueravila/migueravila/blob/main/assets/Blog.png" alt="blog" height="30px"  />
   </a>
   &nbsp;
@@ -18,7 +18,7 @@
   </a>
 </p>
 
-I'm a Software Engineer Student, passionate for the **UI/UX**, **Web Development** and **Human-Computer Interaction**. I enjoy learning, improving and sharing my skills and knowledge!
+I'm a Software Engineer Student, passionate for the **UI/UX**, **Frontend Development** and **Human-Computer Interaction**. I enjoy learning, improving and sharing my skills and knowledge!
 
 - 🚀 Working on Nuxt, Javascript and Rust.
 - 🌱 Currently learning about MongoDB, React and NodeJS.
