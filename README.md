@@ -20,8 +20,9 @@
 
 I'm a Software Engineer Student, passionate for the **UI/UX**, **Web Development** and **Human-Computer Interaction**. I enjoy learning, improving and sharing my skills and knowledge!
 
-- 🚀 Working on Vue, Javascript and Rust.
-- 🌱 Currently learning about MongoDB, DevOps and NodeJS.
+- 🚀 Working on Nuxt, Javascript and Rust.
+- 🌱 Currently learning about MongoDB, React and NodeJS.
+- 🎨 Software Engineer that fell in love with UX/UI design
 - 🍵 I Love reading philosophy and drink tea.
 - 🌟 President of an incredible organization called [Workshop](https://github.com/HeyWorkshop).
 - ⛩️ [Lintori](https://lintori.vercel.app) Co-founder.
