@@ -18,11 +18,9 @@
   </a>
 </p>
 
-I'm a Software Engineer Student, passionate for the **UI/UX**, **Frontend Development** and **Human-Computer Interaction**. I enjoy learning, improving and sharing my skills and knowledge!
+A **Front-end developer** passionate for **UX/UI design**, focused on designing and building digital experiences.
 
 - 🚀 Working on Nuxt, Javascript and Rust.
 - 🌱 Currently learning about MongoDB, React and NodeJS.
-- 🎨 Software Engineer that fell in love with UX/UI design
-- 🍵 I Love reading philosophy and drink tea.
+- 🍵 Software Engineer that fell in love with UX/UI design
 - 🌟 President of an incredible organization called [Workshop](https://github.com/HeyWorkshop).
-- ⛩️ [Lintori](https://lintori.vercel.app) Co-founder.
