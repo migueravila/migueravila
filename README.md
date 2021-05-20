@@ -18,7 +18,7 @@
   </a>
 </p>
 
-A **Front-end developer** passionate for **UX/UI design**, focused on designing and building digital experiences.
+I'm a **Front-end developer** passionate for **UX/UI design**, focused on designing and building digital experiences.
 
 - 🚀 Working on Nuxt, Javascript and Rust.
 - 🌱 Currently learning about MongoDB, React and NodeJS.
