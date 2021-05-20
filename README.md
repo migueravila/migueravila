@@ -3,7 +3,7 @@
 <p style="margin: -20px 0 30px">
   <a href="https://www.linkedin.com/in/migueravila/" target="_blank" style='margin-right:0px'>
     <img align="center" src="https://github.com/migueravila/migueravila/blob/main/assets/Linkedin.png" alt="linkedin" height="30px" width="30px" />
-  </a>
+  </a> 
   &nbsp;
    <a href="https://mavila.hashnode.dev/" target="_blank" style='margin-right:0px'>
     <img align="center" src="https://github.com/migueravila/migueravila/blob/main/assets/Blog.png" alt="blog" height="30px"  />
