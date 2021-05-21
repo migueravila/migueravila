@@ -5,11 +5,11 @@
     <img align="center" src="https://github.com/migueravila/migueravila/blob/main/assets/Linkedin.png" alt="linkedin" height="30px" width="30px" />
   </a> 
   &nbsp;
-   <a href="https://mavila.hashnode.dev/" target="_blank" style='margin-right:0px; margin-top:5px'>
+   <a href="https://blog.avila.codes/" target="_blank" style='margin-right:0px; margin-top:5px'>
     <img align="center" src="https://github.com/migueravila/migueravila/blob/main/assets/Blog.png" alt="blog" height="30px"  />
   </a>
   &nbsp;
-      <a href="https://avila.onrender.com/" target="_blank" style='margin-right:0px; margin-top:5px'>
+      <a href="https://avila.codes/" target="_blank" style='margin-right:0px; margin-top:5px'>
     <img align="center" src="https://github.com/migueravila/migueravila/blob/main/assets/Portfolio.png" alt="linkedin" height="30px"  />
   </a>
   &nbsp;
