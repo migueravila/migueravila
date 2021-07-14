@@ -20,7 +20,7 @@
 
 I'm a **Front-end developer** passionate for **UX/UI design**, focused on designing and building digital experiences.
 
-- 🚀 Working on Nuxt, React and 
+- 🚀 Working on Nuxt, React and Figma.
 - 🌱 Currently learning about Product Management, React Native and Angular.
 - 🍵 Software Engineer that fell in love with UX/UI design.
 - 🌟 Product Manager intern at DealerGeek.
