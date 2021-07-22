@@ -1,4 +1,4 @@
-### Hi, I'm Miguel! <img src="https://raw.githubusercontent.com/MiguelRAvila/MiguelRAvila/master/img/profile/wave.gif" width="24px">
+### Hi, there! <img src="https://raw.githubusercontent.com/MiguelRAvila/MiguelRAvila/master/img/profile/wave.gif" width="24px">
 
 <p style="margin: -20px 0 30px">
   <a href="https://www.linkedin.com/in/migueravila/" target="_blank" style='margin-right:0px; margin-top:5px'>
@@ -20,7 +20,8 @@
 
 I'm a **Front-end developer** passionate for **UX/UI design**, focused on designing and building digital experiences.
 
-- 🚀 Working on Nuxt, React and Figma.
+- 🌟 Product Manager intern at DealerGeek.
+- 🚀 I use daily `.html`, `.js`, `.jsx`, `.scss`, `.vue`, `.c`, `.svg`
 - 🌱 Currently learning about Product Management, React Native and Angular.
 - 🍵 Software Engineer that fell in love with UX/UI design.
-- 🌟 Product Manager intern at DealerGeek.
+
