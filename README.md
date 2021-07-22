@@ -23,5 +23,5 @@ I'm a **Front-end developer** passionate for **UX/UI design**, focused on design
 - 🌟 Product Manager intern at DealerGeek.
 - 🚀 I use daily `.html`, `.js`, `.jsx`, `.scss`, `.vue`, `.c`, `.svg`
 - 🌱 Currently learning about Product Management, React Native and Angular.
-- 🍵 Software Engineer that fell in love with UX/UI design.
+- 🍵 Software Engineer that fell in love with `Product Management` and `UX/UI design`.
 
