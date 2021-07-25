@@ -18,7 +18,7 @@
   </a>
 </p>
 
-I'm a **Front-end developer** passionate for **UX/UI design**, focused on designing and building digital experiences.
+I'm a **Front-end developer** passionate for **Product Management** and **UX/UI design**, focused on designing and building gorgeous digital experiences.
 
 - 🌟 Product Manager intern at DealerGeek.
 - 🚀 I use daily `.html`, `.js`, `.jsx`, `.scss`, `.vue`, `.c`, `.svg`
