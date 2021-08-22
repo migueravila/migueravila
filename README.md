@@ -20,8 +20,9 @@
 
 I'm a **Front-end developer** passionate for **Product Management** and **UX/UI design**, focused on designing and building gorgeous digital experiences.
 
-- 🌟 Product Manager intern at DealerGeek.
+- 🌟 Currently Product Manager intern at **DealerGeek**.
 - 🚀 I use daily `.html`, `.js`, `.jsx`, `.scss`, `.vue`, `.c`, `.svg`
-- 🌱 Currently learning about Product Management, React Native and Angular.
-- 🖊️ I write a blog about software and open source in [`Hashnode`](https://blog.avila.codes/)
+- 🌱 Learning about Product Management, React Native and Angular.
+- 💬 Ping me about **design**, **management**, **open source**, **web development*, **UX/UI**
+- 🖊️ I write a [`blog`](https://blog.avila.codes/) about software and open source in Hashnode.
 - 🍵 Software Engineer that fell in love with `Product Management` and `UX/UI design`.
