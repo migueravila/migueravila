@@ -2,13 +2,13 @@
 
 #### I'm a Frontend Developer working in Merida, Mexico.
 
-#### `NOW`
+##### NOW
 
 - ✨ Product Manager Intern at **DealerGeek**.
 - 🦊 Working on [SimpleFox](https://github.com/migueravila/SimpleFox).
 - 🤝 Collaborating with [Lintori](https://github.com/Lintori) and [Workshop](https://heyworkshop.github.io/Site/).
 
-#### `BIO`
+##### BIO
 
 - 🏢 I'm currently working at **DealerGeek**
 - ⚙️ I use daily `.html`, `.js`, `.jsx`, `.scss`, `.vue`, `.c`, `.svg`
