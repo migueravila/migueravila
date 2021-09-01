@@ -1,28 +1,20 @@
-### Hi, there! <img src="https://raw.githubusercontent.com/MiguelRAvila/MiguelRAvila/master/img/profile/wave.gif" width="24px">
+### Hi there 👋
 
-<!-- <p style="margin: -20px 0 30px">
-  <a href="https://www.linkedin.com/in/migueravila/" target="_blank" style='margin-right:0px; margin-top:5px'>
-    <img align="center" src="https://github.com/migueravila/migueravila/blob/main/assets/Linkedin.png" alt="linkedin" height="30px" width="30px" />
-  </a> 
-  &nbsp;
-   <a href="https://blog.avila.codes/" target="_blank" style='margin-right:0px; margin-top:5px'>
-    <img align="center" src="https://github.com/migueravila/migueravila/blob/main/assets/Blog.png" alt="blog" height="30px"  />
-  </a>
-  &nbsp;
-      <a href="https://avila.codes/" target="_blank" style='margin-right:0px; margin-top:5px'>
-    <img align="center" src="https://github.com/migueravila/migueravila/blob/main/assets/Portfolio.png" alt="linkedin" height="30px"  />
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/migueravila" target="_blank" style='margin-top:5px'>
-    <img align="center" src="https://github.com/migueravila/migueravila/blob/main/assets/Twitter.png" alt="email" height="30px"/>
-  </a>
-</p> -->
+#### I'm a Frontend Developer working in Merida, Mexico.
 
-I'm a **Front-end developer** passionate for **Product Management** and **UX/UI design**, focused on designing and building gorgeous digital experiences.
+##### `NOW`
 
-- 🌟 Currently Product Manager intern at **DealerGeek**.
-- 🚀 I use daily `.html`, `.js`, `.jsx`, `.scss`, `.vue`, `.c`, `.svg`
-- 🌱 Learning about Product Management, React Native and Angular.
+- ✨ Product Manager Intern at **DealerGeek**.
+- 🦊 Working on [SimpleFox](https://github.com/migueravila/SimpleFox).
+- 🤝 Collaborating with [Lintori](https://github.com/Lintori) and [Workshop](https://heyworkshop.github.io/Site/).
+
+##### `BIO`
+
+- 🏢 I'm currently working at **DealerGeek**
+- ⚙️ I use daily `.html`, `.js`, `.jsx`, `.scss`, `.vue`, `.c`, `.svg`
+- 🌱 Learning all about **Product Management**, **React Native** and **Angular**.
+- 🌍 I'm mostly active within the **Open Source Community**
+- ✍️ I write a [`blog`](https://blog.avila.codes/) about software and open source in Hashnode.
 - 💬 Ping me about **design**, **management**, **open source**, **web development**, **UX/UI**
-- 🖊️ I write a [`blog`](https://blog.avila.codes/) about software and open source in Hashnode.
-- 🍵 Software Engineer that fell in love with `Product Management` and `UX/UI design`.
+- 📫 Reach me: [`twitter.com/migueravila`](https://twitter.com/migueravila)
+- 🍵 Fun fact: I'm a huge fan of Philosphy and Tea.
