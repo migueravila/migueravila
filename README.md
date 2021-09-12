@@ -5,8 +5,8 @@
 ##### NOW
 
 - ✨ Product Manager Intern at **DealerGeek**.
-- 🦊 Working on [SimpleFox](https://github.com/migueravila/SimpleFox).
-- 🤝 Collaborating with [Lintori](https://github.com/Lintori) and [Workshop](https://heyworkshop.github.io/Site/).
+- ⛩️ Co-founder at [Lintori](https://github.com/Lintori).
+- 🤝 Collaborating with [Workshop](https://heyworkshop.github.io/Site/).
 
 ##### BIO
 
