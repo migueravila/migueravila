@@ -6,7 +6,7 @@
 
 - ✨ Product Manager Intern at **DealerGeek**.
 - ⛩️ Co-founder at [Lintori](https://github.com/Lintori).
-- 🤝 Collaborating with [Workshop](https://heyworkshop.github.io/Site/).
+- 💾 Collaborating with [Workshop](https://heyworkshop.github.io/Site/).
 
 ##### BIO
 
