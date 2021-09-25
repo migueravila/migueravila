@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- 🕹️Frontend developer at **DealerGeek**.
+- 🕹️ Frontend developer at **DealerGeek**.
 - ⛩️ Co-founder at [Lintori](https://github.com/Lintori).
 - 💾 Collaborating with [Workshop](https://heyworkshop.github.io/Site/).
 
