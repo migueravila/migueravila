@@ -16,5 +16,5 @@
 - 🌍 I'm mostly active within the **Open Source Community**
 - ✍️ I write a [`blog`](https://avila.sh/blog) about software, open source and design.
 - 💬 Ping me about **design**, **management**, **open source**, **web development**, **UX/UI**
-- 📫 Reach me: [`twitter.com/migueravila`](https://twitter.com/migueravila) or mail me [`miguel@avila.sh`](mailto:me@avila.sh)
+- 📫 Reach me: [`twitter.com/migueravila`](https://twitter.com/migueravila) or mail me [`me@avila.sh`](mailto:me@avila.sh)
 - 🍵 Fun fact: I'm a huge fan of Philosphy and Tea.
