@@ -5,14 +5,14 @@
 ##### NOW
 
 - 🕹️ Frontend developer at **DealerGeek**.
-- ⛩️ Co-founder at [Lintori](https://github.com/Lintori).
-- 💾 Collaborating with [Workshop](https://heyworkshop.github.io/Site/).
+- ⛩️ **Open-Sourcerer** at free time.
+- 💾 Collaborating with **[Workshop](https://heyworkshop.github.io/Site/)**.
 
 ##### BIO
 
 - 🏢 I'm currently working at **DealerGeek**
-- ⚙️ I use daily `.html`, `.js`, `.jsx`, `.scss`, `.vue`, `.c`, `.svg`
-- 🌱 Learning all about **Product Management**, **React Native** and **Angular**.
+- ⚙️ I use daily `.html`, `.js`, `.ts`, `.jsx`, `.(s)css`, `.vue`, `.c`, `.svg`
+- 🌱 Learning all about **Product Management**, **Scrum** and **Angular**.
 - 🌍 I'm mostly active within the **Open Source Community**
 - ✍️ I write a [`blog`](https://avila.sh/blog) about software, open source and design.
 - 💬 Ping me about **design**, **management**, **open source**, **web development**, **UX/UI**
