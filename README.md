@@ -5,7 +5,7 @@
 ##### NOW
 
 - 🕹️ Scrum Master & UX/UI designer at `DealerGeek`.
-- 🧠 Product & UX/Ui designer at [`Brainmi`]([https://brainmi.app](https://www.linkedin.com/in/migueravila/)).
+- 🧠 Product & UX/Ui designer at [`Brainmi`](https://www.linkedin.com/company/brainmi/).
 - ⛩️ **Open-Sourcerer** at free time.
 
 ##### BIO
