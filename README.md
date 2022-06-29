@@ -4,15 +4,15 @@
 
 ##### NOW
 
-- 🕹️ Scrum Master & UX/UI designer at **DealerGeek**.
+- 🕹️ Scrum Master & UX/UI designer at `DealerGeek`.
+- 🧠 Product & UX/Ui designer at [`Brainmi`]([https://brainmi.app](https://www.linkedin.com/in/migueravila/)).
 - ⛩️ **Open-Sourcerer** at free time.
-- 💾 Collaborating with [`Workshop`](https://heyworkshop.github.io/Site/)
 
 ##### BIO
 
 - 🏢 I'm currently working at **DealerGeek**
-- ⚙️ I use daily `.html`, `.js`, `.ts`, `.jsx`, `.(s)css`, `.vue`, `.c`, `.svg`
-- 🌱 Learning all about **Project Management**, **Rust** and **Javascript**.
+- ⚙️ I use daily `.html`, `.js`, `.ts`, `.jsx`, `.(s)css`, `.vue`, `.svg`
+- 🌱 Learning all about **Interaction Design**, **Scrum** and **Product Design**.
 - 🌍 I'm mostly active within the **Open Source Community**.
 - ✍️ I write a [`blog`](https://avila.sh/blog) about software, open source and design.
 - 💬 Ping me about **design**, **management**, **open source**, **web development**, **UX/UI**.
