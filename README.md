@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-#### I'm [Miguel](https://avila.sh), a UX Engineer working in Merida, Mexico.
+#### I'm [Miguel](https://avila.sh), a Product & UX/UI Designer working in Merida, Mexico.
 
 ##### NOW
 
-- 🕹️ Scrum Master & UX/UI designer at `DealerGeek`.
-- 🧠 Product & UX/Ui designer at [`Brainmi`](https://www.linkedin.com/company/brainmi/).
-- ⛩️ **Open-Sourcerer** at free time.
+- 🚎 Scrum Master & UX/UI designer at `DealerGeek`.
+- 🧠 Product & UX/UI designer at [`Brainmi`](https://www.linkedin.com/company/brainmi/).
+- 📦 **Open-Sourcerer** at free time.
 
 ##### BIO
 
