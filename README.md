@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm [Miguel](https://avila.sh), a Product & UX/UI Designer working in Merida, Mexico.
+#### I'm Miguel, a Product & UX/UI Designer working in Merida, Mexico.
 
 ##### NOW
 
@@ -12,9 +12,9 @@
 
 - 🏢 I'm currently working at **DealerGeek**
 - ⚙️ I use daily `.html`, `.js`, `.ts`, `.jsx`, `.(s)css`, `.vue`, `.svg`
-- 🌱 Learning all about **Interaction Design**, **Scrum** and **Product Design**.
+- 🌱 Learning all about **Interaction Design**, **Product Design** and **Product Management**.
 - 🌍 I'm mostly active within the **Open Source Community**.
-- ✍️ I write a [`blog`](https://avila.sh/blog) about software, open source and design.
+- ✍️ I write a `blog` about software, open source and design.
 - 💬 Ping me about **design**, **management**, **open source**, **web development**, **UX/UI**.
-- 📫 Reach me at [`twitter.com/migueravila`](https://twitter.com/migueravila) or mail me [`me@avila.sh`](mailto:me@avila.sh)
+- 📫 Reach me at [`twitter.com/migueravila`](https://twitter.com/migueravila) or mail me [`miguel@avila.works`](mailto:miguel@avila.works)
 - 🍵 Fun fact? I'm a huge fan of Philosophy and Tea.
