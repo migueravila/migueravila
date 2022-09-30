@@ -4,8 +4,8 @@
 
 ##### NOW
 
-- 🚎 Head of Design at `DealerGeek`.
-- 🧠 Product & UX/UI designer at [`Brainmi`](https://www.linkedin.com/company/brainmi/).
+- 🚎 Head of Design at [`DealerGeek`](https://www.linkedin.com/company/DealerGeek/).
+- 🧠 Product & UX/UI designer at [`Brainmi`](https://www.linkedin.com/company/Brainmi/).
 - 📦 **Open-Sourcerer** at free time.
 
 ##### BIO
