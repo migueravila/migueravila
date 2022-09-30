@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- 🚎 Scrum Master & UX/UI designer at `DealerGeek`.
+- 🚎 Head of Design at `DealerGeek`.
 - 🧠 Product & UX/UI designer at [`Brainmi`](https://www.linkedin.com/company/brainmi/).
 - 📦 **Open-Sourcerer** at free time.
 
