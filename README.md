@@ -6,7 +6,7 @@
 
 - 🚎 Head of Design at [`DealerGeek`](https://www.linkedin.com/company/DealerGeek/).
 - 🧠 Product & UX/UI designer at [`Brainmi`](https://www.linkedin.com/company/Brainmi/).
-- 📦 Working on [`side projects`](https://avila.works/projects) at free time.
+- 📦 Working on [`side projects`](https://avila.works/work) at free time.
 
 ##### BIO
 
