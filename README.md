@@ -12,7 +12,7 @@
 ##### BIO
 
 - I'm currently working at **Dealer Geek**
-- I use daily `.html`, `.js`, `.ts`, `.jsx`, `.(s)css`, `.vue`, `.svg`
+- I use daily `.swift`, `.js`, `.ts`, `.jsx`, `.(s)css`, `.vue`, `.svg`
 - Learning all about **Interaction Design**, **Swift** and **Objective C**.
 - I'm mostly active within the **Open Source Community**.
 - I write a [`blog`](https://medium.com/@migueravila) about software, open source and design.
