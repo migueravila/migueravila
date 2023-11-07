@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#### I'm Miguel, a Design Engineer & UX/UI working in Merida.
+#### I'm Miguel, a Software Engineer & Designer working in Merida.
 
 ##### NOW
 
