@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- Software Engineer at [`Dealer Geek`](https://dealergeek.com).
+- Frontend Engineer at [`Yuhu`](https://yuhu.mx).
 - Working on [`side projects`](https://avila.id/#projects) at free time.
 - Learning all about **ReactJS**, **Interaction Design**, **Swift** and **Objective C**.
 
