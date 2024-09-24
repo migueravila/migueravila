@@ -10,5 +10,5 @@
 - I'm mostly active within the **Design**. community.
 - I write a [`blog`](https://medium.com/@migueravila) about software, open source and design.
 - Ping me about **software**, **design**, **open source**, **web development**, **UX/UI**.
-- Reach me at [`miguel@avila.id`](mailto:miguel@avila.id)
+- Reach me at [`me@avila.sh`](mailto:me@avila.sh)
 - Fun fact? I'm a huge fan of Tea & Star Wars.
