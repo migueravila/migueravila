@@ -1,6 +1,6 @@
 ##### `NOW`
 
-- Product Engineering Manager at [`yuhu`](https://yuhu.mx).
+- Product Development Manager at [`yuhu`](https://yuhu.mx).
 - Co-founder at [`inmersive softworks`](https://github.com/inmersive).
 - Working on [`side projects`](https://github.com/migueravila?tab=repositories) at free time.
 
