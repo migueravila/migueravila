@@ -3,6 +3,7 @@
 - Product Development Manager at [`yuhu`](https://yuhu.mx).
 - Co-founder at [`inmersive softworks`](https://inmersive.so).
 - Working on [`side projects`](https://github.com/migueravila?tab=repositories) at free time.
+- Crafting [`estrato app`](https://avila.sh/estrato/).
 
 ##### `BIO`
 - Learning all about `swift`, `rust` and `interaction design`.
